@@ -1,5 +1,5 @@
 ---
-name: binance-tokenized-securities-info
+name: 币安代币化证券信息
 description: |
   Query Ondo tokenized US stock data on Binance Web3.
   Covers: supported stock token list, RWA metadata (company info, attestation reports),
@@ -21,7 +21,7 @@ metadata:
   version: "1.1"
 ---
 
-# 币安代币化证券信息
+# Binance Tokenized Securities Info Skill
 
 ## Overview
 
